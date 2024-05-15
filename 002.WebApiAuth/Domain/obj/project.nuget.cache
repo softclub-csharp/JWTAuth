@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XQhvSBgSzHgSpMvQOH8NW7ESmkBiJ7DRTeZCt9kMxDA3QRrVIy4yL0IHU8Rn6DRffz7GT429l27FPXhBin+3hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\.NET\\csharp_course_materials\\course\\week9\\day3\\JwtAuthentication\\002.WebApiAuth\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
